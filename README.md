@@ -1,6 +1,6 @@
 
 # Autotwi - Twitter/X 数据采集工具套件 (Twitter/X Data Scraping Toolkit)
-> author: Leo
+> Author: @LeoZheng279
 ## 简体中文
 
 ### 概述
